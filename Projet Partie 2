@@ -1,4 +1,5 @@
-3ème étape 
+3ème étape du Projet BDD :
+
 MLD :
 Architecte = (A_ID INT, A_Nom VARCHAR(50), A_Prénom VARCHAR(50), A_Date_de_naissance DATE, A_Date_de_décès DATE, A_Nationalité DATE);
 Matériaux = (M_ID VARCHAR(50), M_Nom VARCHAR(50), ID_Indice_de_durabilité INT);
