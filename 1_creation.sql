@@ -44,7 +44,7 @@ CREATE TABLE Méthode_de_reproduction (
    MR_Nom VARCHAR(50) NOT NULL,
    MR_Type VARCHAR(50),
    MR_Niveau_de_détail VARCHAR(50),
-   MR_Durée BIGINT,
+   MR_Durée INT,
    MR_Coût DECIMAL(15,2),
    PRIMARY KEY (MR_ID)
 );
